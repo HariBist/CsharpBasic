@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\bin\Debug\net8.0\BasicLinq.exe
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\bin\Debug\net8.0\BasicLinq.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\bin\Debug\net8.0\BasicLinq.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\bin\Debug\net8.0\BasicLinq.dll
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\bin\Debug\net8.0\BasicLinq.pdb
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\obj\Debug\net8.0\BasicLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\obj\Debug\net8.0\BasicLinq.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\obj\Debug\net8.0\BasicLinq.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\obj\Debug\net8.0\BasicLinq.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\obj\Debug\net8.0\BasicLinq.dll
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\obj\Debug\net8.0\refint\BasicLinq.dll
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\obj\Debug\net8.0\BasicLinq.pdb
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\obj\Debug\net8.0\BasicLinq.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\CharpProjects\basicLInq\obj\Debug\net8.0\ref\BasicLinq.dll
