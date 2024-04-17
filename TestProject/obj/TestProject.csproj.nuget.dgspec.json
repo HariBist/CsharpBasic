@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\CharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\CsharpBasic\\testproject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\CharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\CsharpBasic\\testproject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\CharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\CsharpBasic\\testproject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\CharpProjects\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\CsharpBasic\\testproject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\CharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\CsharpBasic\\testproject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
